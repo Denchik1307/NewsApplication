@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">News Application</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="body_image_news">body_image_news</string>
+    <string name="title">title</string>
+    <string name="body_text_news">body_text_news</string>
+    <string name="body_author_news">body_author_news</string>
+    <string name="author">author</string>
+    <string name="date">date</string>
+    <string name="splitter">splitter</string>
+    <string name="body_name_news">body_name_news</string>
+</resources>
